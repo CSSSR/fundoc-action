@@ -1,0 +1,9 @@
+# action.yml
+name: 'Fundoc Action'
+
+description: 'Generates documentation using Fundoc CLI'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
