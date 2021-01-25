@@ -1,4 +1,3 @@
 #!/bin/sh -l
 
-fundoc
-
+/usr/local/cargo/bin/fundoc
