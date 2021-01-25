@@ -31,4 +31,4 @@ jobs:
         commit_message: 'docs: generate documentation'
 ```
 
-After installation documentation will be generated and pushed by the action with a separate commit on behalf of the author of the last commit. You can specify a commit message and other settings (see documentation [here](https://github.com/stefanzweifel/git-auto-commit-action).
+After installation documentation will be generated and pushed by the action with a separate commit on behalf of the author of the last commit. You can specify a commit message and other settings (see documentation [here](https://github.com/stefanzweifel/git-auto-commit-action)).
