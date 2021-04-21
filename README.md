@@ -24,7 +24,7 @@ jobs:
         ref: ${{ github.head_ref }}
 
     - name: Fundoc Action
-      uses: daynin/fundoc-action@v0.2.0
+      uses: daynin/fundoc-action@v0.2.1
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
