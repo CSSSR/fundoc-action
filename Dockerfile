@@ -1,4 +1,4 @@
-FROM rust:1.49.0
+FROM rust:1.67
 
 COPY entrypoint.sh /entrypoint.sh
 
