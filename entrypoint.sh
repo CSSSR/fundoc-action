@@ -1,3 +1,5 @@
 #!/bin/sh -l
 
-/usr/local/cargo/bin/fundoc
+PATH=$PATH:/usr/local/cargo/bin
+
+fundoc
